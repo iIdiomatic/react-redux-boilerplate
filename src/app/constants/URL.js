@@ -1,0 +1,1 @@
+export const FETCH_SOMETHING_URL = "https://jsonplaceholder.typicode.com/todos/";
